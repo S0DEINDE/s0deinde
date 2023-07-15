@@ -20,8 +20,12 @@ I am pursuing a bachelors of Science in Computer Science. I am passionate about 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/s0deinde"><img src="https://github-readme-streak-stats.herokuapp.com/?user=s0deinde&stroke=3382ed&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=3382ed&currStreakLabel=ffffff&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+<a href="https://github.com/s0deinde" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0deinde&langs_count=9&hide_progress=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
+
+
+
+<a href="http://www.github.com/s0deinde"><img src="https://github-readme-streak-stats.herokuapp.com/?user=s0deinde&stroke=3382ed&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=3382ed&currStreakLabel=ffffff&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
 
 
