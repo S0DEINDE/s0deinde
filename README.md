@@ -24,7 +24,7 @@ I'm pursuing a bachelors of Science in Computer Science. I'm passionate about cy
 
 
 
-
+<a href="http://www.github.com/s0deinde"><img src="https://github-readme-streak-stats.herokuapp.com/?user=s0deinde&stroke=3382ed&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=3382ed&currStreakLabel=ffffff&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
 
 
