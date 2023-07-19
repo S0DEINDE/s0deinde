@@ -6,7 +6,7 @@ I'm pursuing a bachelors of Science in Computer Science. I'm passionate about cy
 * 🖥️  See my portfolio at [s0deinde.github.io/](http://s0deinde.github.io/)
 * ✉️  You can contact me at [davidmamon52@gmail.com](mailto:davidmamon52@gmail.com)
 * 🧠  I'm learning AWS and Azure
-* ⚡  Go try to beat my high score in my 2048 game 🔮
+* ⚡  Go try to beat my high score in my 2048 game 🔮 [s0deinde.github.io/2048/](https://s0deinde.github.io/2048/)
 
 
 ### Skills  
