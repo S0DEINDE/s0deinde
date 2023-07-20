@@ -1,4 +1,4 @@
-Yooo 👋🏾 My name is David 
+Yooo0 👋🏾 My name is David 
 ======================  
 
 I'm pursuing a bachelors of Science in Computer Science. I'm passionate about cybersecurity, web and game development. I fancy to blaze my own path in STEM and inpiring underrepresented students throughout the world!  
