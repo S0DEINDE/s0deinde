@@ -20,7 +20,7 @@ I'm pursuing a bachelors of Science in Computer Science. I'm passionate about cy
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/s0deinde" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0deinde&langs_count=9&hide_progress=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=s0deinde&layout=compact&langs_count=16&theme=onedark"/>
 
 
 
