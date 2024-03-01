@@ -2,7 +2,7 @@ Yooo 👋🏾 My name is David
 ======================  
 
 I'm pursuing a bachelors of Science in Computer Science. I'm passionate about cybersecurity, web and game development. I plan to blaze my own path in STEM and inpiring underrepresented students throughout the world!  
-* 🌍  I'm based in Baltimore, MD
+* 🌍  I'm based in Rockville, MD
 * 🖥️  See my portfolio at [s0deinde.github.io/](http://s0deinde.github.io/)
 * ✉️  You can contact me at [davidmamon52@gmail.com](mailto:davidmamon52@gmail.com)
 * 🧠  I'm learning Network Infrastructure
